@@ -1,0 +1,1 @@
+Criação de um cluster Docker Swarm utilizando Vagrant para automatização da criação de 4 Máquinas Virtuais no VirtualBox sendo 1 nó para gerenciamento do cluester outros 3 nós para criação de containers
